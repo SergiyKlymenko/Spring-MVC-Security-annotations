@@ -1,0 +1,12 @@
+com\mvc\authentication\DBAuthenticationService.class
+com\mvc\config\WebMvcConfig.class
+com\mvc\controller\MainController.class
+com\mvc\model\UserInfo.class
+com\mvc\dao\impl\UserInfoDAOImpl.class
+com\mvc\config\SpringSecurityInitializer.class
+com\mvc\config\ApplicationContextConfig.class
+com\mvc\controller\ErrorController.class
+com\mvc\mapper\UserInfoMapper.class
+com\mvc\config\SpringWebAppInitializer.class
+com\mvc\config\WebSecurityConfig.class
+com\mvc\dao\UserInfoDAO.class
