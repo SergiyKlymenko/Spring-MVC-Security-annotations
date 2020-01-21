@@ -15,7 +15,7 @@
 	<jdk.version>1.8</jdk.version>
 	<jstl.version>1.2</jstl.version>
 	<servletapi.version>2.5</servletapi.version>   
-    <spring.version>5.1.8.RELEASE</spring.version>
+    <spring.version>5.2.3.RELEASE</spring.version>
     <spring.security.version>5.1.5.RELEASE</spring.security.version>
     <tomcat8Version>9.0.22</tomcat8Version>
     <failOnMissingWebXml>false</failOnMissingWebXml>
